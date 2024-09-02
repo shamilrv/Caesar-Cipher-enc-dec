@@ -8,3 +8,11 @@ The program allows a shift value between 1 and 25, which ensures that the alphab
 
 3.Handling Non-Letter Characters:
 Characters that are not letters (such as spaces, punctuation, numbers) are left unchanged.
+
+Running the Program
+Download and Save the code in a file named * caesar_cipher.py *
+
+Run the program using the command:python3 caesar_cipher.py
+Follow the prompts to encrypt or decrypt a message with your chosen shift value.
+
+This program provides a simple yet effective way to understand the Caesar Cipher, a classic example of substitution cipher encryption!
